@@ -7,11 +7,11 @@ import Menu from '../containers/Menu';
 
 
 function App({setBooks, books, isLoading}) {
-   useEffect(()=>{
+    useEffect(() => {
         axios.get('/books.json').then(({data}) => {
             setBooks(data.books);
         })
-        }, [])
+    }, [setBooks])
 
     return (
 
