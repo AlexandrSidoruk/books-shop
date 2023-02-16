@@ -1,0 +1,155 @@
+{"books":[
+  {
+    "id": 0,
+    "title": "Происхождение",
+    "author": "Дэн Браун",
+    "image": "https://book24.ua/upload/iblock/e81/e8175cbb3c7c61d9bb8d9b798e5ac9ce.jpg",
+    "price": 710,
+    "rating": 3
+  },
+  {
+    "id": 1,
+    "title": "1984",
+    "author": "Джордж Оруэлл",
+    "image": "https://book24.ua/upload/iblock/eb8/eb8477dd60722056461c19e6936cb811.png",
+    "price": 415,
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "title": "Я - безодня",
+    "author": "Донато Каррізі",
+    "image": "https://book24.ua/upload/iblock/2e3/2e31115da3592078369af293358924f3.jpg",
+    "price": 464,
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "title": "Дихання. Давнє мистецтво оздоровлення",
+    "author": "Джеймс Нестор",
+    "image": "https://book24.ua/upload/iblock/788/7888dfcd68ca4ecefb48e516537b2729.JPG",
+    "price": 741,
+    "rating": 3
+  },
+  {
+    "id": 4,
+    "title": "Різдво у Великому дереві",
+    "author": "Мішлен Сільві",
+    "image": "https://book24.ua/upload/iblock/ffa/ffaa4d1a596a462d86f5fe3c7552762a.jpeg",
+    "price": 317,
+    "rating": 1
+  },
+  {
+    "id": 5,
+    "title": "Діти повітряних тривог",
+    "author": "Лариса Денисенко",
+    "image": "https://book24.ua/upload/iblock/a40/a4053d49ad257feb53904abad517cbdb.jpg",
+    "price": 254,
+    "rating": 0
+  },
+  {
+    "id": 6,
+    "title": "Емі і таємний клуб супердівчат. Сніговий патруль",
+    "author": "Мєлех Агнєшка",
+    "image": "https://book24.ua/upload/iblock/d9f/d9f08b6441d551ef22ba8a384bf25d8c.png",
+    "price": 573,
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "title": "Коротка історія фотографії ",
+    "author": "Сміт Іан Гейдн",
+    "image": "https://book24.ua/upload/iblock/f75/f7546fa8106826b6f4a084ce100de738.png",
+    "price": 246,
+    "rating": 0
+  },
+  {
+    "id": 8,
+    "title": "Главные женщины в истории искусства. Ключевые работы, темы, направления, достижения",
+    "author": "Сюзі Годж",
+    "image": "https://book24.ua/upload/iblock/9ad/9ad25fdaaa606c41a36d601087c42f8c.jpg",
+    "price": 347,
+    "rating": 5
+  },
+  {
+    "id": 9,
+    "title": "Секрети японських візерунків. 260 схем для плетіння спицями",
+    "author": "Хітомі Шіда",
+    "image": "https://book24.ua/upload/iblock/10d/10d9e52a8d5e900036b314a4eb0371ff.JPG",
+    "price": 882,
+    "rating": 2
+  },
+  {
+    "id": 10,
+    "title": "Кров і попіл: Корона з позолочених кісток",
+    "author": "Дженніфер Л. Арментраут",
+    "image": "https://book24.ua/upload/iblock/b15/b151d81b2a25d3e62a0337b31198ee98.JPG",
+    "price": 829,
+    "rating": 1
+  },
+  {
+    "id": 11,
+    "title": "Про мишей і людей ",
+    "author": "Джон Стейнбек",
+    "image": "https://book24.ua/upload/iblock/aca/aca74f574fda218ce6ed0e6bf70276ac.JPG",
+    "price": 389,
+    "rating": 2
+  },
+  {
+    "id": 12,
+    "title": "Неофіційна кулінарна книга Гаррі Поттера",
+    "author": "Діна Бухольц",
+    "image": "https://book24.ua/upload/iblock/94f/94f629cedebd39d22275d972803efb75.png",
+    "price": 424,
+    "rating": 3
+  },
+  {
+    "id": 13,
+    "title": "П’ять ночей із Фредді. Книга 1: Срібні очі",
+    "author": "Скотт Коутон, Кіра Брід-Ріслі",
+    "image": "https://book24.ua/upload/iblock/ba5/ba58a051e634512db4ef32a689a2e2e1.jpg",
+    "price": 157,
+    "rating": 2
+  },
+  {
+    "id": 14,
+    "title": "Шоколадний Kіт і Цукеркова Відьма",
+    "author": "Тетяна Стрижевська",
+    "image": "https://book24.ua/upload/iblock/ea0/ea0a43f587e6814d69af9feccae5b21d.png",
+    "price": 664,
+    "rating": 0
+  },
+  {
+    "id": 15,
+    "title": "Метушня у різдвяній школі",
+    "author": "Манн Меріам",
+    "image": "https://book24.ua/upload/iblock/1b8/1b87b09cbc1de98c743bfdbbef298e15.png",
+    "price": 476,
+    "rating": 4
+  },
+  {
+    "id": 17,
+    "title": "Кобилянська від А до Я",
+    "author": "Світлана Кирилюк",
+    "image": "https://book24.ua/upload/iblock/970/97054523afe5927772ffc95784ad181a.png",
+    "price": 837,
+    "rating": 4
+  },
+  {
+    "id": 18,
+    "title": "Зберігачі",
+    "author": "Джон Маррс",
+    "image": "https://book24.ua/upload/iblock/b0a/b0a5a1f60134af930e50eeeba884ce8e.jpg",
+    "price": 796,
+    "rating": 5
+  },
+  {
+    "id": 19,
+    "title": "Обраниці",
+    "author": "Жан-Крістоф Ґранже",
+    "image": "https://book24.ua/upload/iblock/b80/b80eb9bd05e994f676367064544db5ce.JPG",
+    "price": 399,
+    "rating": 5
+  }
+]
+}
